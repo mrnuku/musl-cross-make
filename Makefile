@@ -2,13 +2,13 @@
 SOURCES = sources
 
 CONFIG_SUB_REV = 3d5db9ebe860
-BINUTILS_VER = 2.33.1
-GCC_VER = 9.2.0
+BINUTILS_VER = 2.34
+GCC_VER = 9.3.0
 MUSL_VER = 1.2.0
-GMP_VER = 6.1.2
+GMP_VER = 6.2.0
 MPC_VER = 1.1.0
 MPFR_VER = 4.0.2
-LINUX_VER = headers-4.19.88
+LINUX_VER = headers-4.9.206
 
 GNU_SITE = https://ftp.gnu.org/pub/gnu
 GCC_SITE = $(GNU_SITE)/gcc
